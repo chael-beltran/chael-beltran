@@ -32,15 +32,16 @@ I live in the **Philippines** 🇵🇭 and enjoy:
 
 ---
 
-## 🔗 Contact Me
-- 📧 Email: [michaeljames.beltran@csucc.edu.ph](mailto:michaeljames.beltran@csucc.edu.ph) | [chaeljames.beltran@gmail.com](mailto:chaeljames.beltran@gmail.com)  
-- 🌐 LinkedIn: [Chael Beltran](https://www.linkedin.com/in/chael-beltran-060924374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 📘 Facebook: [Michael James Beltran](https://www.facebook.com/michaeljames.beltran.7)  
+## 📫 Contact Me
+- 📧 **Institutional Email:** [michaeljames.beltran@csucc.edu.ph](mailto:michaeljames.beltran@csucc.edu.ph)  
+- 📧 **Personal Email:** [chaeljames.beltran@gmail.com](mailto:chaeljames.beltran@gmail.com)  
+- 🔗 **Facebook:** [Michael James Beltran](https://www.facebook.com/michaeljames.beltran.7)  
+- 🔗 **LinkedIn:** [Chael Beltran](https://www.linkedin.com/in/chael-beltran-060924374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
 ## 📊 GitHub Stats
-![Chael's GitHub stats](https://github-readme-stats.vercel.app/api?username=chael-beltran&show_icons=true&theme=dark&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chael-beltran&theme=tokyonight-duo&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ---
 
