@@ -40,7 +40,7 @@ I live in the **Philippines** 🇵🇭 and enjoy:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=chael-beltran&theme=tokyonight-duo&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ---
