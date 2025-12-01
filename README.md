@@ -1,6 +1,6 @@
 # Hi there, I'm Chael Beltran 👋
 
-![header](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFxaGdqd3JvZzNseTZ0Y3gzcHE1bGV1YW92OTFnNTJxcW9ra3lidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RYOF0Q3zFm1DQHJi9s/giphy.gif)  
+![header](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdxdWNuYm9wdTBzdnhmc3k1bnNyb2hid2hsNXpubHZpNjE3aWdhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JEZ5z6vuxp81bRMr5x/giphy.gif)  
 *"Life may be full of pain, but it also holds incredible beauty. Keep going—your better days are on the way."*
 *- Chael Beltran*
 
