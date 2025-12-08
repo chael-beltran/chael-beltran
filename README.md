@@ -3,7 +3,7 @@
   <img src="./Banner.jpg" alt="Chael Beltran Banner">
 </p>
 
-<!-- Character Image -->
+<!-- Character -->
 <div>
   <img align="right" width="35%" src="./Character.png">
 </div>
@@ -14,11 +14,12 @@
 
 <br />
 
-<!-- Intro -->
+<!-- Ma angas na Intro -->
 <p align="left">
-I’m an aspiring developer exploring <b>full-stack development</b> and <b>UI/UX design</b>.<br />
+I'm an aspiring developer exploring <b>full-stack development</b> and <b>UI/UX design</b>.<br />
 I love building projects, improving my skills, and learning something new every day, because each day is an opportunity to grow, create, and explore.<br />
 Currently based in the <b>Philippines</b>.
+</p>
 
 - ✨ Lifelong learner  
 - 🌱 Improving my skills in **web & app development, and design**  
@@ -26,39 +27,81 @@ Currently based in the <b>Philippines</b>.
 
 ---
 
-<!-- Profile View Badge -->
+<!-- Profile View -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=chael-beltran&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" style="padding-right:20px;">
 </p>
 
 ---
 
-<!-- Permanent Quote -->
-<p align="center">
-  <em>"Life may be full of pain, but it also holds incredible beauty. Keep moving forward—your better days are on the way." - Chael Beltran</em>
-</p>
+<!-- My Quote -->
+<div align="center">
+  <div style="margin-top: -90px; padding: 0 40px;">
+    <table>
+      <tr>
+        <td>
+          <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+        </td>
+        <td>
+          <em><b>"Life may be full of pain, but it also holds incredible beauty.<br />Keep moving forward—your better days are on the way."</b></em><br />
+          <sub>— Chael Beltran</sub>
+        </td>
+        <td>
+          <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 
 ---
 
 <!-- Tech Stack -->
 <h2 align="center">💻 Tech Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FE7A16?style=for-the-badge&logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20Bash-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <h3>🎨 Frontend</h3>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend Skills" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h3>⚙️ Backend</h3>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java,php" alt="Backend Skills" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h3>📱 Mobile</h3>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Skills" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h3>🗄️ Database</h3>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Database Skills" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h3>🛠️ Tools & Others</h3>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,figma,git" alt="Tools" />
+      <img src="https://img.shields.io/badge/XAMPP-FB7A16?style=for-the-badge&logo=xampp&logoColor=white" height="48" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -74,24 +117,24 @@ Currently based in the <b>Philippines</b>.
 
 <!-- Connect With Me -->
 <h2 align="center">🤝 Connect With Me</h2>
-<div align="center">
-  <a href="mailto:michaeljames.beltran@csucc.edu.ph" target="_blank">
-    <img src="./Gmail-icon.png" width="50" height="50" alt="Institutional Email" style="margin:10px;" />
+<p align="center">
+  <a href="mailto:michaeljames.beltran@csucc.edu.ph">
+    <img src="https://img.shields.io/badge/Institutional%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Institutional Email" />
   </a>
-  <a href="mailto:chaeljames.beltran@gmail.com" target="_blank">
-    <img src="./Gmail-icon.png" width="50" height="50" alt="Personal Email" style="margin:10px;" />
+  <a href="mailto:chaeljames.beltran@gmail.com">
+    <img src="https://img.shields.io/badge/Personal%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" />
   </a>
   <a href="https://www.facebook.com/michaeljames.beltran.7" target="_blank">
-    <img src="./Facebook-icon.png" width="50" height="50" alt="Facebook" style="margin:10px;" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.linkedin.com/in/chael-beltran-060924374" target="_blank">
-    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="margin:10px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+</p>
 
 <br />
 
-<!-- Footer Wave -->
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75" />
 </p>
