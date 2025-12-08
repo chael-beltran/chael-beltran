@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./Banner.png" alt="Chael Beltran Banner">
+  <img src="./Banner.jpg" alt="Chael Beltran Banner">
 </p>
 
 <!-- Character -->
