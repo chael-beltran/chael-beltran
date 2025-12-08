@@ -1,53 +1,83 @@
-# Hi there, I'm Chael Beltran 👋
+<!-- Banner -->
+<p align="center">
+  <img src="./Banner.jpg" alt="Chael Beltran Banner">
+</p>
 
-![header](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdxdWNuYm9wdTBzdnhmc3k1bnNyb2hid2hsNXpubHZpNjE3aWdhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JEZ5z6vuxp81bRMr5x/giphy.gif)  
-*"Life may be full of pain, but it also holds incredible beauty. Keep going—your better days are on the way."*
-*- Chael Beltran*
+<!-- Character Image -->
+<div>
+  <img align="right" width="35%" src="./Character.png">
+</div>
 
-## About Me
-I'm Chael Beltran, a **3rd year BSIT student** at Caraga State University Cabadbaran Campus (CSUCC), an **aspiring developer**, and a **UI design enthusiast** practicing on Figma.  
+<!-- Header Name -->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Chael Beltran!  
+*Student | Aspiring Developer | UI/UX Design Enthusiast*  
+<br />
 
-I live in the **Philippines** 🇵🇭 and enjoy:  
-- Watching **anime** & reading **manga**  
-- Listening to **rock music**: Radiohead, Wave to Earth, CAS, The Smiths, Oasis, Green Day  
-- Learning new things  
+<!-- Intro -->
+<p align="left">
+I’m a passionate developer exploring **full-stack development** and **UI/UX design**.  
+I love building projects, learning new technologies, and improving my skills every day.  
+Currently based in the **Philippines**.
+</p>
 
----
-
-## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
----
-
-## 🎨 UI & Design
-- Practicing **UI/UX design** on **Figma**  
-- Currently exploring **frontend development and interactive interface design**
+- ✨ Lifelong learner  
+- 🌱 Improving my skills in **web & app development, and design**  
+- 💻 Practicing **interactive UI design** with **Figma**  
 
 ---
 
-## 📫 Contact Me
-- 📧 **Institutional Email:** [michaeljames.beltran@csucc.edu.ph](mailto:michaeljames.beltran@csucc.edu.ph)  
-- 📧 **Personal Email:** [chaeljames.beltran@gmail.com](mailto:chaeljames.beltran@gmail.com)  
-- 🔗 **Facebook:** [Michael James Beltran](https://www.facebook.com/michaeljames.beltran.7)  
-- 🔗 **LinkedIn:** [Chael Beltran](https://www.linkedin.com/in/chael-beltran-060924374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<!-- Permanent Quote -->
+<p align="center">
+  <em>"Life may be full of pain, but it also holds incredible beauty. Keep moving forward—your better days are on the way." - Chael Beltran</em>
+</p>
 
 ---
 
-## 📊 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=chael-beltran&theme=tokyonight-duo&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
+<!-- Tech Stack -->
+<h2 align="center">💻 Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FE7A16?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20Bash-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
 ---
 
-## 🐱
-![Lofi Cat](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+<!-- GitHub Streak -->
+<h2 align="center">📊 GitHub Streak</h2>
+<p align="center">
+  <a href="https://github.com/chael-beltran">
+    <img src="https://streak-stats.demolab.com?user=chael-beltran&theme=tokyonight-duo&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ---
 
-*“Keep coding foward! :)”*
+<!-- Connect With Me -->
+<h2 align="center">🤝 Connect With Me</h2>
+<div align="center">
+  <a href="mailto:michaeljames.beltran@csucc.edu.ph" target="_blank">
+    <img src="./Gmail-icon.png" width="50" height="50" alt="Institutional Email" style="margin:10px;" />
+  </a>
+  <a href="mailto:chaeljames.beltran@gmail.com" target="_blank">
+    <img src="./Gmail-icon.png" width="50" height="50" alt="Personal Email" style="margin:10px;" />
+  </a>
+  <a href="https://www.facebook.com/michaeljames.beltran.7" target="_blank">
+    <img src="./Facebook-icon.png" width="50" height="50" alt="Facebook" style="margin:10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/chael-beltran-060924374" target="_blank">
+    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="margin:10px;" />
+  </a>
+</div>
