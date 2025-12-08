@@ -26,6 +26,13 @@ Currently based in the <b>Philippines</b>.
 
 ---
 
+<!-- Profile View Badge -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=chael-beltran&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" style="padding-right:20px;">
+</p>
+
+---
+
 <!-- Permanent Quote -->
 <p align="center">
   <em>"Life may be full of pain, but it also holds incredible beauty. Keep moving forward—your better days are on the way." - Chael Beltran</em>
