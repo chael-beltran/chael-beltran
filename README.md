@@ -16,10 +16,9 @@
 
 <!-- Intro -->
 <p align="left">
-I'm a passionate developer exploring <b>full-stack development</b> and <b>UI/UX design</b>.<br />
-I love building projects, learning new technologies, and improving my skills every day.<br />
+I’m an aspiring developer exploring <b>full-stack development</b> and <b>UI/UX design</b>.<br />
+I love building projects, improving my skills, and learning something new every day, because each day is an opportunity to grow, create, and explore.<br />
 Currently based in the <b>Philippines</b>.
-</p>
 
 - ✨ Lifelong learner  
 - 🌱 Improving my skills in **web & app development, and design**  
