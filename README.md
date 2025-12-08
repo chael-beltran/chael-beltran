@@ -8,16 +8,17 @@
   <img align="right" width="35%" src="./Character.png">
 </div>
 
-<!-- Header Name -->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Chael Beltran!  
-*Student | Aspiring Developer | UI/UX Design Enthusiast*  
+<!-- Header Name with Typing Animation -->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Chael!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&vCenter=true&width=435&lines=Student+%7C+Aspiring+Developer;UI%2FUX+Design+Enthusiast;Building+Cool+Projects+%F0%9F%9A%80;Always+Learning+Something+New" alt="Typing SVG" /></a>
+
 <br />
 
 <!-- Intro -->
 <p align="left">
-I’m a passionate developer exploring **full-stack development** and **UI/UX design**.  
-I love building projects, learning new technologies, and improving my skills every day.  
-Currently based in the **Philippines**.
+I'm a passionate developer exploring <b>full-stack development</b> and <b>UI/UX design</b>.<br />
+I love building projects, learning new technologies, and improving my skills every day.<br />
+Currently based in the <b>Philippines</b>.
 </p>
 
 - ✨ Lifelong learner  
@@ -81,3 +82,10 @@ Currently based in the **Philippines**.
     <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="margin:10px;" />
   </a>
 </div>
+
+<br />
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75" />
+</p>
