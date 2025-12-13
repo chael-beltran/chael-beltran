@@ -57,12 +57,12 @@ Currently based in the <b>Philippines</b>.
 ---
 
 <!-- Tech Stack -->
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <h3>🎨 Frontend</h3>
+      <h4>Frontend</h4>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend Skills" />
@@ -70,7 +70,7 @@ Currently based in the <b>Philippines</b>.
   </tr>
   <tr>
     <td align="center" width="200">
-      <h3>⚙️ Backend</h3>
+      <h4>Backend</h4>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=python,java,php" alt="Backend Skills" />
@@ -78,7 +78,7 @@ Currently based in the <b>Philippines</b>.
   </tr>
   <tr>
     <td align="center" width="200">
-      <h3>📱 Mobile</h3>
+      <h4>Mobile</h4>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Skills" />
@@ -86,7 +86,7 @@ Currently based in the <b>Philippines</b>.
   </tr>
   <tr>
     <td align="center" width="200">
-      <h3>🗄️ Database</h3>
+      <h4>Database</h4>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Database Skills" />
@@ -94,7 +94,7 @@ Currently based in the <b>Philippines</b>.
   </tr>
   <tr>
     <td align="center" width="200">
-      <h3>🛠️ Tools & Others</h3>
+      <h4>Tools & Others</h4>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=vscode,figma,git" alt="Tools" />
@@ -106,7 +106,7 @@ Currently based in the <b>Philippines</b>.
 ---
 
 <!-- GitHub Streak -->
-<h2 align="center">📊 GitHub Streak</h2>
+<h2 align="center">GitHub Streak</h2>
 <p align="center">
   <a href="https://github.com/chael-beltran">
     <img src="https://streak-stats.demolab.com?user=chael-beltran&theme=tokyonight-duo&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak"/>
@@ -116,7 +116,7 @@ Currently based in the <b>Philippines</b>.
 ---
 
 <!-- Connect With Me -->
-<h2 align="center">🤝 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 <p align="center">
   <a href="mailto:michaeljames.beltran@csucc.edu.ph">
     <img src="https://img.shields.io/badge/Institutional%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Institutional Email" />
