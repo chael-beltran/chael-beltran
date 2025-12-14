@@ -59,49 +59,60 @@ Currently based in the <b>Philippines</b>.
 <!-- Tech Stack -->
 <h2 align="center">Tech Stack</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <h4>Frontend</h4>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend Skills" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <h4>Backend</h4>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,java,php" alt="Backend Skills" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <h4>Mobile</h4>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Skills" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <h4>Database</h4>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Database Skills" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <h4>Tools & Others</h4>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vscode,figma,git" alt="Tools" />
-      <img src="https://img.shields.io/badge/XAMPP-FB7A16?style=for-the-badge&logo=xampp&logoColor=white" height="48" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <table>
+          <tr>
+            <td align="center" width="200">
+              <h4>Frontend</h4>
+            </td>
+            <td>
+              <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend Skills" />
+            </td>
+          </tr>
+          <tr>
+            <td align="center" width="200">
+              <h4>Backend</h4>
+            </td>
+            <td>
+              <img src="https://skillicons.dev/icons?i=python,java,php" alt="Backend Skills" />
+            </td>
+          </tr>
+          <tr>
+            <td align="center" width="200">
+              <h4>Mobile</h4>
+            </td>
+            <td>
+              <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Skills" />
+            </td>
+          </tr>
+          <tr>
+            <td align="center" width="200">
+              <h4>Database</h4>
+            </td>
+            <td>
+              <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Database Skills" />
+            </td>
+          </tr>
+          <tr>
+            <td align="center" width="200">
+              <h4>Tools & Others</h4>
+            </td>
+            <td>
+              <img src="https://skillicons.dev/icons?i=vscode,figma,git" alt="Tools" />
+              <img src="https://img.shields.io/badge/XAMPP-FB7A16?style=for-the-badge&logo=xampp&logoColor=white" height="48" />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top" width="50%">
+        <img src="./tech_stack.gif" alt="Tech Stack Animation" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
